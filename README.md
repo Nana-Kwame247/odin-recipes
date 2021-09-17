@@ -12,6 +12,8 @@ c. HTML Links : relative and absolute links
 
 d. How to use images in your projects
 
+e. I also implemented flexbox that i learnt in the lessons ahead.. i came back to apply it.
+
 ###Useful resources
 
 a. HTML Validator

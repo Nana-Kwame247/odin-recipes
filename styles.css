@@ -63,14 +63,9 @@ a {
   margin-left: 280px;
 }
 
-.description {
-  /* display: block; */
-  float: right;
-  margin-left: 20px;
+.flex-container {
+  display: flex;
 }
-
-.steps {
-  clear: both;
-  content: "";
-  display: table;
+.flex-container article {
+  flex: 1;
 }
